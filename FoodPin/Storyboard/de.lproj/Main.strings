@@ -1,0 +1,42 @@
+/* Class = "UILabel"; text = "Location"; ObjectID = "3im-1W-6ZN"; */
+"3im-1W-6ZN.text" = "Adresse";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "CS3-qz-oBL"; */
+"CS3-qz-oBL.text" = "Art";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant phone"; ObjectID = "Cvs-fr-0PI"; */
+"Cvs-fr-0PI.placeholder" = "Fülle das Telefon aus";
+
+/* Class = "UILabel"; text = "PHONE"; ObjectID = "NcA-NU-4C8"; */
+"NcA-NU-4C8.text" = "Telefon";
+
+/* Class = "UITextView"; text = "A great restaurant to try out"; ObjectID = "XSk-4r-nH9"; */
+"XSk-4r-nH9.text" = "Ein tolles Restaurant";
+
+/* Class = "UINavigationItem"; title = "New Restaurant"; ObjectID = "etC-FP-i9B"; */
+"etC-FP-i9B.title" = "Neues Restaurant";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant type"; ObjectID = "fH3-Vh-fn2"; */
+"fH3-Vh-fn2.placeholder" = "Füllen Sie den Typ aus";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant name"; ObjectID = "gNs-Cr-b09"; */
+"gNs-Cr-b09.placeholder" = "Füllen Sie den Namen aus";
+
+/* Class = "UILabel"; text = "TYPE"; ObjectID = "j3l-To-JSk"; */
+"j3l-To-JSk.text" = "Art";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "ncc-Ft-hGI"; */
+"ncc-Ft-hGI.text" = "Beschreibung";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "rXt-Kk-LLu"; */
+"rXt-Kk-LLu.title" = "Favoriten";
+
+/* Class = "UIButton"; normalTitle = "Rate it"; ObjectID = "uvK-Df-w3w"; */
+"uvK-Df-w3w.normalTitle" = "Bewerte es";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant address"; ObjectID = "v0v-vC-pXK"; */
+"v0v-vC-pXK.placeholder" = "Füllen Sie die Adresse aus";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "zC6-5r-39G"; */
+"zC6-5r-39G.text" = "Adresse";
+

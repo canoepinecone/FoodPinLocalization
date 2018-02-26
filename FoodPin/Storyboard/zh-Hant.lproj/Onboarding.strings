@@ -1,0 +1,12 @@
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Q4e-Oj-KuG"; */
+"Q4e-Oj-KuG.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "HEADING"; ObjectID = "TLa-JM-urV"; */
+"TLa-JM-urV.text" = "HEADING";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "eJ5-qo-aSU"; */
+"eJ5-qo-aSU.normalTitle" = "略過";
+
+/* Class = "UILabel"; text = "Subheading"; ObjectID = "jF0-1a-8zt"; */
+"jF0-1a-8zt.text" = "Subheading";
+

@@ -1,0 +1,48 @@
+/* Class = "UILabel"; text = "Location"; ObjectID = "3im-1W-6ZN"; */
+"3im-1W-6ZN.text" = "地址";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "CS3-qz-oBL"; */
+"CS3-qz-oBL.text" = "類型";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "Cqs-vz-rAv"; */
+"Cqs-vz-rAv.text" = "餐廳名";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant phone"; ObjectID = "Cvs-fr-0PI"; */
+"Cvs-fr-0PI.placeholder" = "填寫餐廳電話";
+
+/* Class = "UILabel"; text = "PHONE"; ObjectID = "NcA-NU-4C8"; */
+"NcA-NU-4C8.text" = "電話";
+
+/* Class = "UITextView"; text = "A great restaurant to try out"; ObjectID = "XSk-4r-nH9"; */
+"XSk-4r-nH9.text" = "非常棒的餐廳～";
+
+/* Class = "UINavigationItem"; title = "New Restaurant"; ObjectID = "etC-FP-i9B"; */
+"etC-FP-i9B.title" = "新增餐廳";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant type"; ObjectID = "fH3-Vh-fn2"; */
+"fH3-Vh-fn2.placeholder" = "填寫餐廳類型";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant name"; ObjectID = "gNs-Cr-b09"; */
+"gNs-Cr-b09.placeholder" = "填寫餐廳名";
+
+/* Class = "UILabel"; text = "TYPE"; ObjectID = "j3l-To-JSk"; */
+"j3l-To-JSk.text" = "類型";
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "ncc-Ft-hGI"; */
+"ncc-Ft-hGI.text" = "簡介";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "rUN-Zb-p8c"; */
+"rUN-Zb-p8c.text" = "餐廳名";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "rXt-Kk-LLu"; */
+"rXt-Kk-LLu.title" = "不可不試";
+
+/* Class = "UIButton"; normalTitle = "Rate it"; ObjectID = "uvK-Df-w3w"; */
+"uvK-Df-w3w.normalTitle" = "給餐廳評價";
+
+/* Class = "UITextField"; placeholder = "Fill in the restaurant address"; ObjectID = "v0v-vC-pXK"; */
+"v0v-vC-pXK.placeholder" = "填寫餐地址";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "zC6-5r-39G"; */
+"zC6-5r-39G.text" = "地址";
+
